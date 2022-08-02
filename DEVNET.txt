@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 I'm a git wizard now!
-=======
->>>>>>> test
+
