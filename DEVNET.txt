@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 I'm a git beginner now!
 hello
 
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> test
+>>>>>>> main
